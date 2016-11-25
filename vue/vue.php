@@ -75,7 +75,7 @@ function genereVueConnexion($dejaEssaye){
 							<p style = "color:red; text-align: center; font-size:16px;"> Mauvais identifiants </p>
 						</fieldset>
 					</form>
-					<p><a href="#">Vien t'amuser avec nous, clique ici pour nous rejoindre </a><span class="fontawesome-arrow-right"></span></p>
+					<p><a href="#">a</a><span class="fontawesome-arrow-right"></span></p>
 				</div>
 			</div>
 		</body>
@@ -86,7 +86,7 @@ function genereVueConnexion($dejaEssaye){
 		?>
 		<body>
 			<h1>Mastermind</h1>
-			<h2>By Jean Francois Copé and Co</h2>
+			<h2></h2>
 			<div class="container">
 				<div id="login">
 					<form action="index.php" method="POST">
@@ -97,7 +97,7 @@ function genereVueConnexion($dejaEssaye){
 
 						</fieldset>
 					</form>
-					<p><a href="#">Vien t'amuser avec nous, clique ici pour nous rejoindre</a><span class="fontawesome-arrow-right"></span></p>
+					<p><a href="#">a</a><span class="fontawesome-arrow-right"></span></p>
 				</div>
 			</div>
 		</body>
